@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-![Imagem de Perfil](https://caminho/para/sua/imagem.jpg)
+![Imagem de Perfil](https://github.com/DevFullFelps/formulario_cadastro/tree/main/img/cafe.jpg)
 
 Sou um desenvolvedor front-end apaixonado por criar interfaces web intuitivas e responsivas. Com um forte domínio em **ReactJS**, **JavaScript**, **HTML** e **CSS**, estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias para entregar soluções de alta qualidade. Meu foco é criar experiências de usuário excepcionais, combinando design e funcionalidade.
 
