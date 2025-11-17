@@ -1,4 +1,4 @@
-![Imagem de Perfil](https://raw.githubusercontent.com/DevFullFelps/formulario_cadastro/main/img/cafe.png)
+![Imagem de Perfil](https://raw.githubusercontent.com/DevFullFelps/formulario_cadastro/main/img/background.jpg)
 
 # 👋 Olá! Sou o **Felipe Adriano**
 
